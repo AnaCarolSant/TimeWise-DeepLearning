@@ -9,7 +9,7 @@ from model_adapter import ModelAdapter
 
 app = FastAPI(title="DL Productivity Coach API", version="1.0")
 
-API_KEY = os.getenv("DL_API_KEY", "changeme")  # troque em produção
+API_KEY = os.getenv("DL_API_KEY", "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")  # troque em produção
 adapter = ModelAdapter()  # carrega/gestiona modelo
 
 # --- Schemas
