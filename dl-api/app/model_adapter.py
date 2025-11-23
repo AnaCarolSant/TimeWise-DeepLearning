@@ -105,3 +105,7 @@ TAREFA — Com base *estritamente* nos dados acima:
                 break
 
         return suggestions
+
+
+
+
