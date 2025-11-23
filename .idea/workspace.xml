@@ -36,7 +36,7 @@
     "Python.main.executor": "Run",
     "Python.model_adapter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Rebasing main",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.pathVariables"
   }
 }]]></component>
