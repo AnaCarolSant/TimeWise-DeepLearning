@@ -3,3 +3,4 @@ uvicorn[standard]
 pydantic
 transformers>=4.0.0
 python-dotenv
+openai
