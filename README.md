@@ -3,6 +3,20 @@
 🧠 TimeWise DL Productivity Coach API
 
 
+## 👩‍💻 Participantes
+
+- Pedro Henrique Mendonça de Novais - RM555276
+- Letícia Zago de Souza - RM558464
+- Ana Carolina dos Reis Santana - RM556219
+
+## Link Deploy
+
+```
+https://timewise-deeplearning.onrender.com/v1/analise-produtividade
+```
+#### !!!Descrição de como testar a REST API, mais abaixo do documento.!!!
+
+
 API em FastAPI que analisa produtividade de usuários com atividades e scores diários, gerando insights e sugestões usando IA (OpenAI / ChatGPT).
 
 🚀 Funcionalidades
